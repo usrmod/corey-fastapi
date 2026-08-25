@@ -7,6 +7,27 @@ Master Repository: https://github.com/CoreyMSchafer/FastAPI-Full-Course
 Full 14-Hour Single Video: https://www.youtube.com/watch?v=iukOehU5aF4
 ====================================================================================================
 
+## Progress Tracker
+- [x] Part 01 - Getting Started
+- [x] Part 02 - Templates
+- [ ] Part 03 - Path Parameters   <-- CURRENTLY WORKING ON THIS
+- [ ] Part 04 - Pydantic Schemas
+- [ ] Part 05 - Database
+- [ ] Part 06 - Complete CRUD
+- [ ] Part 07 - Async Await
+- [ ] Part 08 - Routers
+- [ ] Part 09 - Frontend Forms
+- [ ] Part 10 - Authentication
+- [ ] Part 11 - Authorization
+- [ ] Part 12 - File Uploads
+- [ ] Part 13 - Pagination
+- [ ] Part 14 - Password Reset / Background Tasks
+- [ ] Part 15 - Postgres + Alembic
+- [ ] Part 16 - AWS S3 Image Uploads
+- [ ] Part 17 - Testing
+- [ ] Part 18 - Deployment VPS
+- [ ] Part 19 - Deployment Docker/GCR
+
 [Part 01] Getting Started - Web App + REST API
 - Description: Setting up FastAPI, creating initial endpoints, returning JSON responses, and exploring automatic Swagger documentation.
 - YouTube: https://www.youtube.com/watch?v=7AMjmCTumuo
@@ -14,8 +35,8 @@ Full 14-Hour Single Video: https://www.youtube.com/watch?v=iukOehU5aF4
 
 [Part 02] HTML Frontend for Your API - Jinja2 Templates
 - Description: Rendering dynamic HTML pages using Jinja2 templates, serving static assets (CSS/JS), and building UI layouts.
-- YouTube: https://www.youtube.com/playlist?list=PL-osiE80TeTsak-c-QsVeg0YYG_0TeyXI
-- GitHub:  https://github.com/CoreyMSchafer/FastAPI-02-Jinja2-Templates
+- YouTube: TODO (paste the Part 2 video URL here)
+- GitHub:  https://github.com/CoreyMSchafer/FastAPI-02-Templates
 
 [Part 03] Path Parameters - Validation and Error Handling
 - Description: Working with dynamic URL path parameters, type conversions, automatic validation, and raising custom HTTP exceptions.
@@ -44,7 +65,7 @@ Full 14-Hour Single Video: https://www.youtube.com/watch?v=iukOehU5aF4
 
 [Part 08] Routers - Organizing Routes into Modules with APIRouter
 - Description: Splitting large monolithic apps into clean modular routers using APIRouter, route prefixes, and tags.
-- YouTube: https://www.youtube.com/playlist?list=PL-osiE80TeTsak-c-QsVeg0YYG_0TeyXI
+- YouTube: TODO (paste the Part 8 video URL here)
 - GitHub:  https://github.com/CoreyMSchafer/FastAPI-08-Routers
 
 [Part 09] Frontend Forms - Connecting JavaScript to Your API
@@ -69,7 +90,7 @@ Full 14-Hour Single Video: https://www.youtube.com/watch?v=iukOehU5aF4
 
 [Part 13] Pagination - Loading More Data with Query Parameters
 - Description: Managing large datasets with limit/offset query parameters, calculating page counts, and frontend infinite scroll / pagination.
-- YouTube: https://www.youtube.com/playlist?list=PL-osiE80TeTsak-c-QsVeg0YYG_0TeyXI
+- YouTube: TODO (paste the Part 13 video URL here)
 - GitHub:  https://github.com/CoreyMSchafer/FastAPI-13-Pagination
 
 [Part 14] Password Reset - Email, Tokens, and Background Tasks
@@ -79,13 +100,13 @@ Full 14-Hour Single Video: https://www.youtube.com/watch?v=iukOehU5aF4
 
 [Part 15] PostgreSQL and Alembic - Database Migrations for Production
 - Description: Replacing SQLite with PostgreSQL (psycopg3 async), configuring Alembic database migration environments, and running revision schemas.
-- YouTube: https://www.youtube.com/watch?v=AUZIYQEtRojfqwNRWutGGhNrxr8Du7Su1vppZd3jfd9ct6RLxOadGwRzzqMcO4vNXRn3Jvac2-fP6twgx0ytp8p8If9uKCv3eGN1EjqMwPm7FMatosYWqsLDU9VZrLwotS9GHf_j
+- YouTube: TODO (paste the correct Part 15 video URL here)
 - GitHub:  https://github.com/CoreyMSchafer/FastAPI-15-Postgres-Alembic
 
 [Part 16] AWS S3 and Boto3 - Moving File Uploads to the Cloud
 - Description: Migrating local file storage to AWS S3 buckets using boto3, IAM security credentials, and serving cloud-hosted user uploads.
-- YouTube: https://www.youtube.com/watch?v=AUZIYQF-YBoDS7F_0CSPvAbWV3PyjJd1oyT7SsFZXNRrPKbXznogEOiB_ohpykN9-X0cJOoExEsOQlVy_nAw-ZPvQBgJB_piLpmL8yTGlu8weiFrzDTnc7dssfrNj_Ywe-pkhFVi
-- GitHub:  https://github.com/CoreyMSchafer/FastAPI-16-AWS-S3-Boto3
+- YouTube: TODO (paste the correct Part 16 video URL here)
+- GitHub:  https://github.com/CoreyMSchafer/FastAPI-16-AWS-S3-Image-Uploads
 
 [Part 17] Testing the API - Pytest, Fixtures, and Mocking External Services
 - Description: Writing automated test suites with Pytest, using TestClient/AsyncClient, database fixtures, and mocking external services like S3/Email.
