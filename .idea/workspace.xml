@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72b18d26-dc2a-42bc-b84b-595ec803c680" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.python-version" beforeDir="false" afterPath="$PROJECT_DIR$/.python-version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/icons/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="38DUs6DPbbJaaOoEXi7Kvcgd0ke" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/home/nishant/projects/corey_fastapi",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.33813.50" />
+        <option value="bundled-python-sdk-d4a74c56190c-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.33813.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72b18d26-dc2a-42bc-b84b-595ec803c680" name="Changes" comment="" />
+      <created>1768333838823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768333838823</updated>
+      <workItem from="1768333839955" duration="45000" />
+      <workItem from="1768333894666" duration="91986000" />
+      <workItem from="1770934760840" duration="685000" />
+      <workItem from="1776205573580" duration="691000" />
+      <workItem from="1776206308739" duration="158000" />
+      <workItem from="1776206483772" duration="2604000" />
+      <workItem from="1776509677892" duration="770000" />
+      <workItem from="1777300117729" duration="3201000" />
+      <workItem from="1779102366066" duration="1823000" />
+      <workItem from="1782570597534" duration="3470000" />
+      <workItem from="1782733471294" duration="5020000" />
+      <workItem from="1782738947631" duration="1893000" />
+      <workItem from="1782743808721" duration="823000" />
+      <workItem from="1783604655197" duration="4561000" />
+      <workItem from="1785268899828" duration="7801000" />
+      <workItem from="1785345966062" duration="6174000" />
+      <workItem from="1785362098909" duration="12099000" />
+      <workItem from="1787618486945" duration="1558000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
