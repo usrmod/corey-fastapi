@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="72b18d26-dc2a-42bc-b84b-595ec803c680" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REFERENCES.md" beforeDir="false" afterPath="$PROJECT_DIR$/REFERENCES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -83,7 +83,7 @@
       <workItem from="1785268899828" duration="7801000" />
       <workItem from="1785345966062" duration="6174000" />
       <workItem from="1785362098909" duration="12099000" />
-      <workItem from="1787618486945" duration="3151000" />
+      <workItem from="1787618486945" duration="10116000" />
     </task>
     <servers />
   </component>
